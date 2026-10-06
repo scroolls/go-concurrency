@@ -1,0 +1,12 @@
+/bin/
+/task1/task1
+/task2/task2
+/task3/task3
+*.exe
+*.test
+*.out
+coverage*.html
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
